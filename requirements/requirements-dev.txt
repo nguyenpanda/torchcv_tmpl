@@ -1,0 +1,15 @@
+setuptools
+wheel
+twine
+build
+pylint
+mypy
+jupyter
+
+torchvision
+torchaudio
+
+albumentations
+opencv-python
+pillow
+

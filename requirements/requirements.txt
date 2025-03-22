@@ -1,0 +1,12 @@
+torch
+
+numpy<2
+pandas
+matplotlib
+seaborn
+
+py-cpuinfo
+
+nguyenpanda
+tqdm
+typing-extensions

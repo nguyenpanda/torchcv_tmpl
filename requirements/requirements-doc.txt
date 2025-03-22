@@ -1,0 +1,6 @@
+# mkdocs
+# mkdocs-material
+# mkdocs-table-reader-plugin
+# mike
+# mkdocstrings[python]
+# mkdocs-badges
