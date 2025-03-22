@@ -36,4 +36,4 @@ This project is licensed under the **GNU AFFERO GENERAL PUBLIC LICENSE**.
 ---
 
 - **nguyenpanda**: [hatuongnguyen0107@gmail.com](hatuongnguyen0107@gmail.com)
-- **Evelyn**: [khoana2003@gmail.com](phuongdoan0807@gmail.com)
+- **Evelyn**: [phuongdoan0807@gmail.com](phuongdoan0807@gmail.com)
