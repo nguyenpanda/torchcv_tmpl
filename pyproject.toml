@@ -52,10 +52,12 @@ Repository = "https://github.com/nguyenpanda/torchcv_tmpl.git"
 [tool.setuptools.dynamic]
 version = { attr = "torchcv_tmpl.__version__" }
 dependencies = { file = ["requirements/requirements.txt"] }
-optional-dependencies.dev = { file = ["requirements/requirements-dev.txt"] }
-optional-dependencies.doc = { file = ["requirements/requirements-doc.txt"] }
-optional-dependencies.test = { file = ["requirements/requirements-test.txt"] }
-optional-dependencies.all = { file = ["requirements/*.txt"] }
+optional-dependencies.all = { file = [
+    "requirements/requirements",
+    "requirements/requirements-dev.txt",
+    "requirements/requirements-doc.txt",
+    "requirements/requirements-test.txt",
+] }
 
 [tool.setuptools.package-data]
 "*" = [

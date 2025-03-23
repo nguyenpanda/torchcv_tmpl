@@ -5,6 +5,7 @@ build
 pylint
 mypy
 jupyter
+kaggle
 
 torchvision
 torchaudio
