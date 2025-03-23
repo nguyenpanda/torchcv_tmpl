@@ -7,6 +7,6 @@ seaborn
 
 py-cpuinfo
 
-nguyenpanda
+nguyenpanda>=0.2.0
 tqdm
 typing-extensions
